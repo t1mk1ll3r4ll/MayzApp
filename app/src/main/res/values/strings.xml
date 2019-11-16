@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MayzApp</string>
+
+    <string name="title_activity_splass_screen">SplassScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
